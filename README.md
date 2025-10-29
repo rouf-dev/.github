@@ -74,38 +74,13 @@ Hey there! 👋 I'm **Fahmi N. Rouf**, a software engineer who codes with the ch
 - ☕ **Coffee Addict**: Fuel for coding marathons (capybaras would approve of my hydration habits)
 - 🎮 **Problem Solver**: I approach complex algorithms like a capybara approaches life - methodically and without panic
 - 🌍 **Community Builder**: Just like capybaras are everyone's friend in the animal kingdom, I love collaborating with fellow developers
-
-## 📊 GitHub Stats (Capybara Analytics)
-
-<div align="center">
-  
-![Fahmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahmingabdurouf&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmingabdurouf&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahmingabdurouf&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🌊 Current Vibes
-
-```javascript
-const fahmiStatus = {
-  currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-  workingOn: "Enterprise HRIS applications that scale like a capybara family",
-  specializing: ["Employee Management Systems", "Payroll Automation", "Self-Configurable Apps"],
-  collaborating: "Always open to interesting projects and capybara memes",
-  askMeAbout: ["HRIS Development", "JavaScript", "React", "Node.js", "Go", "Laravel", "Capybara Facts"],
-  funFact: "Capybaras can hold their breath underwater for up to 5 minutes - I can hold my breath debugging payroll calculations for about 30 seconds 😅"
-};
-```
+- �️ **Language Enthusiast**: Currently learning Mandarin (你好!), Japanese (こんにちは!), and polishing my advanced English skills - because capybaras are international creatures!
 
 ## 🤝 Let's Connect! (Capybara Social Network)
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahminrouf)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fahmi_rouf)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rouf.dev)
 
 </div>
